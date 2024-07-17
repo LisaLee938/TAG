@@ -1,4 +1,4 @@
-# TAG VPN官网地址
+# TAG VPN怎么样？TAG VPN官网地址
 
 ## 最新地址：[tagss04.pro](https://tagss04.pro/#/auth/d2RtVGgb)
 
@@ -8,7 +8,7 @@ TAG 机场推出了官方定制的一键翻墙VPN客户端，支持Windows、Mac
 
 TAG 机场还支持常见的Shadowrocket、Clash和Surge订阅。你也可以使用他们推荐的订阅转换网站，选择你喜欢的代理软件进行搭配使用。
 
-### 特色亮点：
+### TAG VPN特色亮点：
 
 - 提供大量冷门节点，覆盖全球92+个国家和地区。
 - 使用各地家庭宽带IP和原生IP，老板精心挑选落地节点，基本都是带宽大的高质量原生IP，能够解锁各种流媒体，非常适合注册登录ChatGPT账号。
